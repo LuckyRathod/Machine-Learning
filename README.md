@@ -48,13 +48,13 @@ So K-Means and Hierarchichal clustering models are used for Clustering different
 
 **1. K-Means Clustering**
 >Elbow method is used to find optimal no of clusters 
-<img src="/Results/kmeans_elbow.jpg" height="300" width="630"/> 
-<img src="/Results/kmeans.jpg" height="300" width="630"/> 
+<img src="Clustering/Results/kmeans_elbow.jpg" height="300" width="630"/> 
+<img src="Clustering/Results/kmeans.jpg" height="300" width="630"/> 
 
 **2. Hierarchical Clustering**
 >Dendrogram is used to find optimal no of clusters 
-<img src="/Results/hc_dendrogram.jpg" height="300" width="630"/> 
-<img src="/Results/hc.jpg" height="300" width="630"/> 
+<img src="Clustering/Results/hc_dendrogram.jpg" height="300" width="630"/> 
+<img src="Clustering/Results/hc.jpg" height="300" width="630"/> 
 
 - Cluster 1 -> Careful Clients
 - Cluster 2 -> Standard Clients
