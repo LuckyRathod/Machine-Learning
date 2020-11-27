@@ -69,8 +69,8 @@ Create a best strategy to find out which ads to be displayed
 
 **1.Upper Confidence Bound**
 >
-<img src="/Results/ucb.png" height="300" width="630"/>
+<img src="ReinforcementLearning/Results/ucb.png" height="300" width="630"/>
 
 **2.Thompson Sampling**
 >
-<img src="/Results/thompson.png" height="300" width="630"/>
+<img src="ReinforcementLearning/Results/thompson.png" height="300" width="630"/>
