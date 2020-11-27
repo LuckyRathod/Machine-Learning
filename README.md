@@ -61,3 +61,16 @@ So K-Means and Hierarchichal clustering models are used for Clustering different
 - Cluster 3 -> Target Clients
 - Cluster 4 -> Careless Clients
 - Cluster 5 -> Sensible Clients
+
+#### Reinforcement Learning Models
+
+Car company prepared an 10 Ads that they would put on Social Network.They are not sure about which ads to be put to gain maximum clicks.
+Create a best strategy to find out which ads to be displayed   
+
+**1.Upper Confidence Bound**
+>
+<img src="/Results/ucb.png" height="300" width="630"/>
+
+**2.Thompson Sampling**
+>
+<img src="/Results/thompson.png" height="300" width="630"/>
