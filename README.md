@@ -38,3 +38,26 @@ So all the below Classification models describes that how many CORRECT and INCOR
 <img src="Classification/Results/random_test.jpg" height="300" width="630"/>
 
        
+### Clustering Models
+
+
+##### Problem Statement 
+An Organization contains an information about its clients that subscribe to their Membership card
+Information such as Client_Id,Gender,Age,Annual Income,Spending score.So Based on Annual Income and Spending score.I have created a model which will segment or cluster different type of Clients
+So K-Means and Hierarchichal clustering models are used for Clustering different type of Clients
+
+**1. K-Means Clustering**
+>Elbow method is used to find optimal no of clusters 
+<img src="/Results/kmeans_elbow.jpg" height="300" width="630"/> 
+<img src="/Results/kmeans.jpg" height="300" width="630"/> 
+
+**2. Hierarchical Clustering**
+>Dendrogram is used to find optimal no of clusters 
+<img src="/Results/hc_dendrogram.jpg" height="300" width="630"/> 
+<img src="/Results/hc.jpg" height="300" width="630"/> 
+
+- Cluster 1 -> Careful Clients
+- Cluster 2 -> Standard Clients
+- Cluster 3 -> Target Clients
+- Cluster 4 -> Careless Clients
+- Cluster 5 -> Sensible Clients
