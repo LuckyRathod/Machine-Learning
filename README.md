@@ -2,6 +2,8 @@
  
 ### Regression Models
 
+##### Problem Statement
+
 An HR manager of an organization will be hiring a new employee who is fit for the organization and will negotiate on salary.HR ask the new employee about his salary of the previous job.HR confirms it by asking the details of Salary to an organization where this new employee worked previously. Which then gives Position_Salary.csv(Salary vs Level) file to HR. And HR knew that new employee was working in between Level 6 and Level 7 which corresponds to 160 Thousand(k) Salary. An organization wants an ML model to predict that whether these new employee is telling truth or not.
 For Learning purpose, All regression model are tested to predict the salary of this new employee. We will compare and conclude which model predicts the salary close to 160k which employee told in an interview.See Code for more details
 
