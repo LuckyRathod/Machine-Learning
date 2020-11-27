@@ -1,7 +1,8 @@
 # Machine-Learning
  
 
-# Classification Models 
+### Classification Models
+
 ##### Problem Statement 
 A Company wants to sell its product.So advertisement is done through sending an email to peoples.After sometime company has gathered some data about the random people (Age,Gender) and  there Action(Y/N) to the email.
 Dataset contains Age vs Acion(Yes/No).So I have created a  model which  predicts that whether the new set of people will accept the offer or not. Model is trained on dataset which will find the correlation between independent and dependent varaibles and based on that it will predict the outcome for new test data
